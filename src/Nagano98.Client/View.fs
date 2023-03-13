@@ -86,7 +86,7 @@ let AppView () =
         Html.divClassed "w-64 mt-4 flex flex-col items-center cursor-pointer" [
             Daisy.tooltip [
                 tooltip.text textForTooltip
-                tooltip.right
+                tooltip.bottom
                 prop.children [
                     Html.img [
                         prop.src logo
