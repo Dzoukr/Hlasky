@@ -41,7 +41,7 @@ let private tracks = [
     "./roy-pateru-nezna.mp3", "Patera, toho Roy vůbec nezná!"
     "./rucinsky-faulovany.mp3", "Ručinský faulovaný zezadu!"
     "./rucinsky-gol.mp3", "Martin Ručinský - góool!"
-    "./shanahan-musi-dat.mp3", "Brandon Shanahan musí dát."
+    "./shanahan-musi-dat-long.mp3", "Brandon Shanahan musí dát."
     "./skvele-dominiku.mp3", "Skvěle, skvěle Dominiku!"
     "./slegr-to-nema-dobre.mp3", "Jiří Šlégr to nemá dobré."
     "./takhle-pali-guma.mp3", "Takhle pálí guma!"
