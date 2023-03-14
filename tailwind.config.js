@@ -1,6 +1,6 @@
 module.exports = {
     content: [
-        "./src/Nagano98.Client/.fable-build/**/*.{js,ts,jsx,tsx}",
+        "./src/Hlasky.Client/.fable-build/**/*.{js,ts,jsx,tsx}",
     ],
     plugins: [
         require('daisyui'),

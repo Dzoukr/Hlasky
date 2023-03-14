@@ -11,7 +11,7 @@ initializeContext()
 
 let publishPath = Path.getFullName "publish"
 let srcPath = Path.getFullName "src"
-let clientSrcPath = srcPath </> "Nagano98.Client"
+let clientSrcPath = srcPath </> "Hlasky.Client"
 let appPublishPath = publishPath </> "app"
 
 // Targets

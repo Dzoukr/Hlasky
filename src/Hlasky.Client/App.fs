@@ -1,4 +1,4 @@
-module Nagano98.Client.App
+module Hlasky.Client.App
 
 open Feliz
 

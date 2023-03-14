@@ -2,9 +2,9 @@
     "private": true,
     "scripts": {
         "prestart": "dotnet tool restore",
-        "start": "dotnet fable watch ./src/Nagano98.Client --outDir ./src/Nagano98.Client/.fable-build --run vite",
+        "start": "dotnet fable watch ./src/Hlasky.Client --outDir ./src/Hlasky.Client/.fable-build --run vite",
         "prebuild": "dotnet tool restore",
-        "build": "dotnet fable ./src/Nagano98.Client --outDir ./src/Nagano98.Client/.fable-build --run vite build"
+        "build": "dotnet fable ./src/Hlasky.Client --outDir ./src/Hlasky.Client/.fable-build --run vite build"
     },
     "devDependencies": {
         "@vitejs/plugin-react": "^3.0.0",

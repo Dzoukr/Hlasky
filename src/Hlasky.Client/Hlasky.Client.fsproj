@@ -4,7 +4,12 @@
         <TargetFramework>net7.0</TargetFramework>
     </PropertyGroup>
     <ItemGroup>
+        <Compile Include="Router.fs" />
         <Compile Include="FelizExtensions.fs" />
+        <Compile Include="Components\Playbox.fs" />
+        <Compile Include="Pages\Nagano98.fs" />
+        <Compile Include="Pages\BrnoDorost.fs" />
+        <Compile Include="Pages\BrnoMhd.fs" />
         <Compile Include="View.fs" />
         <Compile Include="App.fs" />
     </ItemGroup>
